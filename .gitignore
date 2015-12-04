@@ -1,0 +1,5 @@
+__pycache__
+.idea/
+dependencies/hotkey.py
+dependencies/pyHook-1.5.1-cp34-none-win_amd64.whl
+dependencies/pywin32-219.win-amd64-py3.4.exe

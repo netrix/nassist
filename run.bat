@@ -1,0 +1,1 @@
+START pythonw main.py

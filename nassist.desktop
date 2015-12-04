@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Name=NAssist
+Comment=NAssist
+Exec=python3 /home/szatkows/private/nassist/main.py
+Icon=/home/szatkows/private/nassist/icon.png
