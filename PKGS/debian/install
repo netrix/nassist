@@ -1,0 +1,9 @@
+hotkeythread.py usr/share/nassist/
+icon.png usr/share/nassist/
+LICENSE usr/share/nassist/
+main.py usr/share/nassist/
+mainwindow.py usr/share/nassist/
+modules usr/share/nassist/
+nassist.desktop usr/share/applications/
+README.md usr/share/nassist/
+nassist usr/bin/

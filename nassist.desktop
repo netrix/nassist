@@ -6,5 +6,5 @@ Terminal=false
 Encoding=UTF-8
 Name=NAssist
 Comment=NAssist
-Exec=python3 /home/szatkows/private/nassist/main.py
-Icon=/home/szatkows/private/nassist/icon.png
+Exec=python3 /usr/share/nassist/main.py
+Icon=/usr/share/nassist/icon.png
